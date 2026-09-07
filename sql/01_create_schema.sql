@@ -1,0 +1,1 @@
+-- Later step: Snowflake warehouse/database/schema/table creation.

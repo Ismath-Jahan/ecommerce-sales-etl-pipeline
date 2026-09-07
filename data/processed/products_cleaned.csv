@@ -1,0 +1,26 @@
+product_id,product_name,category,unit_price
+P001,Wireless Mouse,Electronics,415.5
+P002,Keyboard,Electronics,3760.85
+P003,Usb-C Hub,Electronics,1860.27
+P004,Bluetooth Speaker,Electronics,4673.83
+P005,Webcam,Electronics,4069.51
+P006,Water Bottle,Home,4360.1
+P007,Desk Lamp,Home,4109.52
+P008,Storage Box,Home,1552.99
+P009,Coffee Mug,Home,3999.66
+P010,Wall Clock,Home,807.05
+P011,Backpack,Fashion,4398.18
+P012,T-Shirt,Fashion,4334.39
+P013,Sneakers,Fashion,1344.44
+P014,Cap,Fashion,4136.96
+P015,Wallet,Fashion,2462.43
+P016,Python Basics,Books,1733.4
+P017,Sql Handbook,Books,4037.12
+P018,Data Engineering 101,Books,1368.7
+P019,Machine Learning Intro,Books,410.22
+P020,Cloud Fundamentals,Books,1206.71
+P021,Phone Stand,Accessories,1841.83
+P022,Laptop Sleeve,Accessories,4361.46
+P023,Charging Cable,Accessories,4843.38
+P024,Power Bank,Accessories,1610.89
+P025,Earphones,Accessories,3313.96
